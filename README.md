@@ -13,7 +13,7 @@ It covers dataset preparation, model training, evaluation (Accuracy, Dice, IoU),
 ---
 
 ## 🚀 Features
-- Data loading of **BraTS2020 multimodal MRI scans (T1, T1Gd, T2, FLAIR)** in `.nii.gz` format  
+- Data loading of **BraTS2020 multimodal MRI scans
 - Preprocessing: normalization, skull-stripped volumes, and slice extraction  
 - **U-Net architecture** built from scratch in PyTorch  
 - Training & validation loops with DataLoader support  
